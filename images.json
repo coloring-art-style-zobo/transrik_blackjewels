@@ -3,6 +3,186 @@
     "hard": [],
     "number": [
         {
+            "bgImageName": "Black_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b2.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b4.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b5.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b6.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b7.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b8.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b9.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b10.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b11.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b12.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b13.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b14.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b16.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b18.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b20.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b22.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b23.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b24.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b26.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b27.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b28.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b30.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b32.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b34.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b35.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b36.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b38.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b40.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b42.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b44.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b46.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b47.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b48.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b49.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b50.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b51.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b52.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b53.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b54.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b55.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b56.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b57.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b58.png",
+            "category": "BLACK"
+        },
+        {
+            "bgImageName": "Black_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b59.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b60.png",
+            "category": "BLACK"
+        },
+        {
             "bgImageName": "Alpha_Color_1",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/m1.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/m2.png",
@@ -313,186 +493,6 @@
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/e55.jpg",
             "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/e56.png",
             "category": "ANCIENT"
-        },
-        {
-            "bgImageName": "Black_Color_1",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b1.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b2.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_3",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b3.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b4.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_5",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b5.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b6.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_7",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b7.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b8.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_9",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b9.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b10.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_11",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b11.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b12.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_13",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b13.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b14.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_15",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b15.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b16.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_17",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b17.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b18.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_19",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b19.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b20.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_21",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b21.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b22.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_23",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b23.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b24.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_25",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b25.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b26.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_27",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b27.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b28.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_29",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b29.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b30.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_31",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b31.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b32.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_33",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b33.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b34.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_35",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b35.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b36.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_37",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b37.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b38.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_39",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b39.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b40.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_41",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b41.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b42.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_43",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b43.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b44.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_45",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b45.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b46.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_47",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b47.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b48.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_49",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b49.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b50.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_51",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b51.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b52.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_53",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b53.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b54.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_55",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b55.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b56.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_57",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b57.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b58.png",
-            "category": "BLACK"
-        },
-        {
-            "bgImageName": "Black_Color_59",
-            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b59.jpg",
-            "outlinePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/transrik_blackjewels/refs/heads/main/b60.png",
-            "category": "BLACK"
         },
         {
             "bgImageName": "Cars_Color_1",
